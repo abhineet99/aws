@@ -2,5 +2,5 @@ Django>=3.0.4
 psycopg2==2.8.4
 django-extensions==2.2.9
 django-filter==2.2.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 pymongo==3.5.1
